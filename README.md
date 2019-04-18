@@ -1,14 +1,3 @@
-/*
-what is this? (3-5)
-
-why did you make it?
-
-what was the hardest part?
-what did you learn?
-
-how it works? (usage and functionality, as if you were gonna run it)
-*/
-
 This program is a memory allocator in the lanuage C. I wrote my own versions of
 malloc(), calloc(), realloc(), and free(). It uses pthread in the hopes of keeping the
 program threadsafe. I made it because I really enjoy programming in C but I have not had
